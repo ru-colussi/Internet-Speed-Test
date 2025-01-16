@@ -46,4 +46,4 @@ Internet-Speed-Test/
    
 4. Execute o arquivo:
   ```bash
-  python main.py
+   python main.py
