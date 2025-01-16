@@ -45,6 +45,6 @@ Internet-Speed-Test/
    pip install -r requirements.txt
    
 4. Execute o arquivo:
-  ```bash
+   ```bash
    python main.py
    ```
